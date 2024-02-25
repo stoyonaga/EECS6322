@@ -65,5 +65,7 @@ attempt.
 
 ```
 2024-02-24: Base repository has been setup. 
+2024-02-25: Updated README to include important information from the second pass of the paper.
+2024-02-25: Added dataset to the repository
 ```
 
