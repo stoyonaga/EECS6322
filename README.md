@@ -50,6 +50,9 @@ Note: It is expected that all models will have pretty poor performance.
 Paper Selection: Shogo
 Proposal Writing: Shogo 
 GitHub Setup: Shogo
+Sandbox Program: Shogo
+Preliminary Finetuning Program: Shogo
+TBA
 ```
 ## Code 
 Our replication challenge relies upon the following code and dependencies listed below:
@@ -67,5 +70,9 @@ attempt.
 2024-02-24: Base repository has been setup. 
 2024-02-25: Updated README to include important information from the second pass of the paper.
 2024-02-25: Added dataset to the repository
+2024-02-26: Worked on coding a sandbox environment in Google Colab for the LLMs (Compute seems to be sufficient!!)
+2024-02-27: Started working on the finetuning program for Justice Dataset 
+2024-02-28: Continued working on the finetuning program; Unable to test fully because I used up all my gpu compute for now :(
+2024-02-29: TBA
 ```
 
