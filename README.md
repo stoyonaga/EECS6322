@@ -73,6 +73,6 @@ attempt.
 2024-02-26: Worked on coding a sandbox environment in Google Colab for the LLMs (Compute seems to be sufficient!!)
 2024-02-27: Started working on the finetuning program for Justice Dataset 
 2024-02-28: Continued working on the finetuning program; Unable to test fully because I used up all my gpu compute for now :(
-2024-02-29: TBA
+2024-03-01: Training script refactored and fixed; awaiting compute resources to validate model accuracy... haha
 ```
 
