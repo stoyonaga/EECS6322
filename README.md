@@ -75,5 +75,6 @@ attempt.
 2024-02-28: Continued working on the finetuning program; Unable to test fully because I used up all my gpu compute for now :(
 2024-03-01: Training script refactored and fixed; awaiting compute resources to validate model accuracy... haha
 2024-03-02: Training bert-uncased on 2 epochs and learning rate 1e-4 was causing the model to only preidct one label consistently..
+2024-03-02: Minor improvements for bert-uncased... I will start working on other models once compute is available.
 ```
 
