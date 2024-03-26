@@ -6,4 +6,5 @@ Our Reproducibility Challenge is based on the following paper, [Efficient Classi
 ## Commit Logs
 ```
 2024-03-11: Proposal accepted, GitHub ready to go.
+2024-03-25: DataLoader configured, Preliminary Attention Network (Stage 1) is ready for testing
 ```
