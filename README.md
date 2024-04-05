@@ -8,4 +8,5 @@ Our Reproducibility Challenge is based on the following paper, [Efficient Classi
 2024-03-11: Proposal accepted, GitHub ready to go.
 2024-03-25: DataLoader configured, Preliminary Attention Network (Stage 1) is ready for testing
 2024-04-01: Introduction is written, Experiments are underway using PatchDrop, RA-CNN, CNN, and ATS.
+2024-04-05: Stage 1 Completed, Stage 2 underway with Contrastive Learning. Experimentation is mostly complete for Colon and Traffic Signs Dataset Now :D
 ```
